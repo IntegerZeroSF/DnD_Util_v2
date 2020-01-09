@@ -1,0 +1,21 @@
+.mainBody {
+    display: flex;
+    flex-direction: column;
+}
+
+.homeTitle {
+    text-decoration: underline;
+}
+
+.bodyText {
+    align-content: center;
+    margin-left: 33%; 
+    margin-right: 33%;   
+}
+
+.dicePicture {
+    align-content: center;
+    width: 50%;
+    margin-left: 25%; 
+    margin-right: 25%;
+}

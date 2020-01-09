@@ -1,0 +1,50 @@
+.body{
+    background-color: #F5F5F5;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2%;
+}
+
+.card {
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 35%;
+    margin-right: 35%;
+    box-shadow: 0 8px 24px 0 rgba(33,32,30,0.2);
+
+}
+
+.card:hover {
+    box-shadow: 0 8px 24px 0 rgba(33,32,30,0.5);
+}
+
+.cardTitle {
+    background-color: #D81921;
+    border: 1px solid black;
+    top: 0;
+
+}
+
+.cardDescrip {
+    margin-left: 2%;
+    margin-right: 2%;
+    line-height: 30px;
+}
+
+.variTools {
+    border: 1px solid black;
+}
+
+.spellLvl, .range, .components,
+.ritual, .duration, .conc,
+.castingTime {
+    padding: 10px;
+    font-weight: bold;
+}
+
+.cardFooter{
+    background-color: rgba(33,32,30);
+    height: 20px;
+}

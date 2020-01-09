@@ -1,0 +1,23 @@
+.mainDisplay {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2%;
+}
+
+.singleSpell {
+    border: solid #21201E;
+    background-color: #D81921;
+    color: white;
+    font-size: 2rem;
+    padding: .5rem;
+    text-align: center;
+    text-decoration: none;
+    margin: 1rem;
+    border-radius: 4px;
+}
+
+.singleSpell:hover {
+    box-shadow: 0 8px 24px 0 rgba(33,32,30,0.5);
+}

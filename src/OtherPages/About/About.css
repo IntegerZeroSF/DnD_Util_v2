@@ -1,0 +1,17 @@
+.aboutDiv {
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.aboutLink:link {
+    color: #D81921;
+    text-decoration: none;
+}
+
+.aboutLink:visited {
+    color: #D81921;
+}
+
+.aboutLink:hover {
+    text-shadow: 2px 2px rgba(33,32,30,0.5);
+}
