@@ -20,6 +20,7 @@ import SingleTrait from './Databases/TraitsList/SingleTrait/SingleTrait.js'
 import SingleEquip from './Databases/EquipmentList/SingleEquip/SingleEquip.js'
 
 //http://dnd5eapi.co/api/
+///////
 
 
 function App() {
